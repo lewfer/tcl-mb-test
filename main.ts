@@ -1,4 +1,6 @@
 namespace plotter {
+    export let x: number;
+
     //% blockId=plotColumn
     //% block="plot column %height high at col %col"
     //% col.min=0 col.max=3
